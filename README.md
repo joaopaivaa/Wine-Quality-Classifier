@@ -1,1 +1,1 @@
-Code done as a partial requirement for the advanced predictive analysis discipline in Big Data postgraduation degree.
+Code done as partial requirement for the advanced predictive analysis discipline in Big Data postgraduation degree.
